@@ -1,0 +1,2 @@
+web digunakan untuk pembuatan web ini :
+https://scrollrevealjs.org/ & https://github.com/jlmakes/scrollreveal
